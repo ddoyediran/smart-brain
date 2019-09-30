@@ -41,6 +41,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can read more NPM tachyons documentation here: https://www.npmjs.com/package/tachyons. Purpose is to build functional CSS Quickly and design new UI without writing css. Check tachyons website out here (https://tachyons.io/)
 
+### `npm i clarifai`
+Clarifai recognition/ detection model was used.  The ‘Face Detection’ model returns probability scores on the likelihood that the image contains human face(s) and coordinate locations of where those face(s) appear with a bounding box. Read more on Clarifai Face detection Model website here: https://www.clarifai.com/models. You can as well check Clarifai out on NPM website (https://www.npmjs.com/package/clarifai)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
